@@ -1,0 +1,89 @@
+{
+  "employees": [
+    {
+      "name": "Rohit Mishra",
+      "email": "Rohitmishrakvs@gmail.com",
+      "mobile": "7838938981",
+      "address": "flat 14 tower 8",
+      "gender": "male",
+      "department": "Development",
+      "createdAt": "2021-07-10",
+      "id": 1
+    },
+    {
+      "name": "Gaurav Mishra",
+      "email": "Rohitmishrakvs@gmail.com",
+      "mobile": "7838938981",
+      "address": "flat 14 tower 8",
+      "gender": "male",
+      "department": "Accounting",
+      "createdAt": "2021-06-29",
+      "id": 2
+    },
+    {
+      "name": "Kanchhan Pandey",
+      "email": "Kanchan@gmail.com",
+      "mobile": "7838938981",
+      "address": "Noida",
+      "gender": "female",
+      "department": "HR",
+      "createdAt": "2021-07-10",
+      "id": 3
+    },
+    {
+      "name": "Priyanka",
+      "email": "priynka@gmail.com",
+      "mobile": "09990928835",
+      "address": "A 56",
+      "gender": "female",
+      "department": "HR",
+      "createdAt": "2021-07-03",
+      "id": 4
+    },
+    {
+      "name": "Pranshi",
+      "email": "Rohitmishrakvs@gmail.com",
+      "mobile": "7838938981",
+      "address": "flat 14 tower 8",
+      "gender": "female",
+      "department": "Development",
+      "hireDate": "2021-07-31",
+      "id": 5
+    }
+  ],
+  "departments": [
+    {
+      "name": "IT",
+      "department_manager_name": "rohit",
+      "createdAt": "2021-07-17",
+      "employeeCount": "45",
+      "id": 1
+    },
+    {
+      "name": "It Department",
+      "department_email": "vinove@gmail.com",
+      "mobile": "4567899076",
+      "department_manager_name": "Pranjal Sing",
+      "createdAt": "2021-07-16",
+      "employeeCount": "45",
+      "address": "noida ",
+      "id": 2
+    },
+    {
+      "name": "Sales",
+      "department_email": "sail@gmail.vinove.com",
+      "mobile": "09990928835",
+      "department_manager_name": "Vishal singh",
+      "createdAt": "2021-07-02",
+      "employeeCount": "45",
+      "address": "A 56",
+      "id": 3
+    }
+  ],
+  "logincred": [
+    {
+      "email": "rohitmishra@gmail.com",
+      "password": "rohit2311"
+    }
+  ]
+}
